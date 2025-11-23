@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Student University of Phayao
 ----------------------------
 
-I'm Learning to be deverloper😃
+I'm Learning to be deverloper🐼
 
 * 🌍  I'm based in Phayao Thailand
 
