@@ -1,24 +1,58 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Adisak
-===============================================================================================================================
+<div align="center">
 
-Student University of Phayao:
-----------------------------
+  <!-- Wave Header: Hello World -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,14,28&height=180&section=header&text=Hello,%20World!%20👋&fontSize=42&fontAlignY=42&fontColor=ffffff&desc=Welcome%20to%20my%20digital%20space.&descAlignY=68&descSize=16" width="100%"/>
 
-I'm Learning to be deverloper:0
+  <br/>
 
-* 🌍  I'm based in Phayao Thailand
+  <!-- Animated Typing Subtitle -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=60A5FA&center=true&vCenter=true&width=500&lines=Junior+Full-Stack+Developer;Crafting+clean+and+functional+web+experiences;Always+curious,+always+building." alt="Typing SVG" />
+  </a>
 
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a>
-</p>
+  <br/><br/>
 
-### Socials
+  <p align="center">
+    ยินดีต้อนรับสู่พื้นที่รวมโปรเจกต์และการทดลองเขียนโค้ดของผมครับ ☕<br/>
+    ชอบการออกแบบระบบที่เรียบง่าย โค้ดที่สะอาด และการสร้างสรรค์สิ่งใหม่ๆ
+  </p>
 
-<p align="left"> <a href="https://www.github.com/Adisakx2548" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a></p>
-### Badges
+  <br/>
 
-<b>My GitHub Stats</b>
+  <!-- Architectural Terminal Box -->
+  <table align="center">
+    <tr>
+      <td>
+        <pre><code>
+  <b>$ whoami</b>
+  > Junior Full-Stack Developer
+  
+  <b>$ mission</b>
+  > Turning ideas into clean, practical software.
+  
+  <b>$ status</b>
+  > Open to chat, learn, and collaborate.
+        </code></pre>
+      </td>
+    </tr>
+  </table>
 
-<a href="http://www.github.com/Adisakx2548"><img src="https://github-readme-stats.vercel.app/api?username=Adisakx2548&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=000000&bg_color=1c1917&hide_border=true&show_icons=true" alt="Adisakx2548's GitHub stats" /></a>
+  <br/>
 
-<a href="https://github.com/Adisakx2548" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adisakx2548&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=000000&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+  <!-- Minimal Connect Links -->
+  <p align="center">
+    <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+    </a>
+    &nbsp;
+    <a href="mailto:YOUR_EMAIL@gmail.com">
+      <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+    </a>
+  </p>
+
+  <br/>
+
+  <!-- Minimal Footer Wave -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,14,28&height=80&section=footer" width="100%"/>
+
+</div>
