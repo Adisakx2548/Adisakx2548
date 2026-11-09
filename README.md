@@ -1,58 +1,34 @@
 <div align="center">
 
-  <!-- Wave Header: Hello World -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,14,28&height=180&section=header&text=Hello,%20World!%20👋&fontSize=42&fontAlignY=42&fontColor=ffffff&desc=Welcome%20to%20my%20digital%20space.&descAlignY=68&descSize=16" width="100%"/>
+  <!-- Running Mario Pixel Animation -->
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="120" alt="Mario Running" />
+
+  <h1>Hello, World! 👋</h1>
+
+  <p>
+    🏃‍♂️💨 <i>Running towards clean code, good architecture, and great coffee.</i>
+  </p>
+
+  <p>
+    ยินดีต้อนรับสู่ GitHub ของผมครับ! ผมเป็น <b>Junior Full-Stack Developer</b><br/>
+    ชอบการสร้างสรรค์เว็บแอปพลิเคชัน และพร้อมวิ่งเรียนรู้สิ่งใหม่ๆ ตลอดเวลา 🚀
+  </p>
 
   <br/>
 
-  <!-- Animated Typing Subtitle -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=60A5FA&center=true&vCenter=true&width=500&lines=Junior+Full-Stack+Developer;Crafting+clean+and+functional+web+experiences;Always+curious,+always+building." alt="Typing SVG" />
-  </a>
+  <!-- Running Line Divider -->
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e9f40e79-8d14-4257-9680-bcda25b0f6da.gif" width="90%" />
 
   <br/><br/>
 
   <p align="center">
-    ยินดีต้อนรับสู่พื้นที่รวมโปรเจกต์และการทดลองเขียนโค้ดของผมครับ ☕<br/>
-    ชอบการออกแบบระบบที่เรียบง่าย โค้ดที่สะอาด และการสร้างสรรค์สิ่งใหม่ๆ
-  </p>
-
-  <br/>
-
-  <!-- Architectural Terminal Box -->
-  <table align="center">
-    <tr>
-      <td>
-        <pre><code>
-  <b>$ whoami</b>
-  > Junior Full-Stack Developer
-  
-  <b>$ mission</b>
-  > Turning ideas into clean, practical software.
-  
-  <b>$ status</b>
-  > Open to chat, learn, and collaborate.
-        </code></pre>
-      </td>
-    </tr>
-  </table>
-
-  <br/>
-
-  <!-- Minimal Connect Links -->
-  <p align="center">
-    <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+    <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
     </a>
     &nbsp;
     <a href="mailto:YOUR_EMAIL@gmail.com">
-      <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
     </a>
   </p>
-
-  <br/>
-
-  <!-- Minimal Footer Wave -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,14,28&height=80&section=footer" width="100%"/>
 
 </div>
