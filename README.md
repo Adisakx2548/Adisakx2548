@@ -9,10 +9,6 @@
     🏃‍♂️💨 <i>Running towards clean code, good architecture, and great coffee.</i>
   </p>
 
-  <p>
-    ยินดีต้อนรับสู่ GitHub ของผมครับ! ผมเป็น <b>Junior Full-Stack Developer</b><br/>
-    ชอบการสร้างสรรค์เว็บแอปพลิเคชัน และพร้อมวิ่งเรียนรู้สิ่งใหม่ๆ ตลอดเวลา 🚀
-  </p>
 
   <br/>
 
